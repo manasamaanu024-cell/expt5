@@ -1,2 +1,6 @@
-myself manasa
-i am from bhadravathi
+welcome to jnnce
+welcome ISE dept. >> p1.txt
+echo welcome ISE dept. >> p1.txt
+echo welcome ISE dept.
+welcome ISE dept.
+welcome ISE dept.
